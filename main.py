@@ -1,5 +1,4 @@
 def main():
-    print('Test github')
     print('Add new line')
 
 
